@@ -2,4 +2,4 @@
 Project is UML Diagram
 www.patika.dev
 
-<img src="Pictures\uml1.JPG">
+<img src="[C:\Users\aydog\Pictures\uml1.JPG](https://imgyukle.com/i/R4Mp98)">
