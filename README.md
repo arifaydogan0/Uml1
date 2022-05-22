@@ -2,4 +2,4 @@
 Project is UML Diagram
 www.patika.dev
 
-<img src="https://imgyukle.com/i/R4Mp98">
+![alt text](http://(https://imgyukle.com/i/R4Mp98)/to/img.png)
